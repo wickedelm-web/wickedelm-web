@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java Full Stack Developer | Spring Boot & React Building scalable apps with clean backend logic Java · Spring · React · MySQL · Docker
+JavaScript  Full Stack Developer | Node.js & React Building scalable apps with clean backend logic JavaScript · Node.js · React · MySQL · Docker
 
 
 ## 🌐 Socials:
