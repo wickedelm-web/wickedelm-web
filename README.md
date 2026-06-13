@@ -1,3 +1,12 @@
+<img width="1600" height="480" alt="banner (1)" src="https://github.com/user-attachments/assets/b3df369f-2e5c-4f00-9e1e-3b634cdec30e" />
+
+
+
+
+
+
+
+
 # 💫 About Me:
 JavaScript  Full Stack Developer | Node.js & React Building scalable apps with clean backend logic JavaScript · Node.js · React · MySQL · Docker
 
