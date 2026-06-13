@@ -8,12 +8,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Rudrajyoti Dutta</h1>
-- 🎓 B.Tech @ VIT Bhopal University
-- 🛠️ Full Stack Developer — JavaScript, React, Node.js, REST APIs
-- 🚀 Passionate about building clean, performant, and user-focused web applications
-- 🤝 Open to collaborations on impactful products and open-source projects
-- 📩 rudrajyotidutta@gmail.com
 
+- 🎓 B.Tech @ VIT Bhopal University
+- 🛠️ Full Stack Developer — JavaScript, React, Node.js
+- 🚀 Passionate about building clean, performant web apps
+- 🤝 Open to collaborations on impactful projects
+- 📩 rudrajyotidutta@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/rudrajyoti-dutta)
@@ -32,7 +32,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=wickedelm-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img width="1024" height="512" alt="CWhxr4WWcAAa42s" src="https://github.com/user-attachments/assets/98c6493c-ec6c-47fd-9609-c658413c94a6" />
+> "Talk is cheap. Show me the code." — Linus Torvalds
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
