@@ -32,5 +32,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=wickedelm-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img width="1024" height="512" alt="CWhxr4WWcAAa42s" src="https://github.com/user-attachments/assets/98c6493c-ec6c-47fd-9609-c658413c94a6" />
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
