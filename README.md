@@ -7,7 +7,7 @@
 
 
 
-Hi 👋, I'm Rudrajyoti Dutta
+<h1 align="center">Hi 👋, I'm Rudrajyoti Dutta</h1>
 - 🎓 B.Tech @ VIT Bhopal University
 - 🛠️ Full Stack Developer — JavaScript, React, Node.js, REST APIs
 - 🚀 Passionate about building clean, performant, and user-focused web applications
