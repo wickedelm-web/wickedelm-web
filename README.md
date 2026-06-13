@@ -19,7 +19,7 @@ JavaScript  Full Stack Developer | Node.js & React Building scalable apps with c
 # 📊 GitHub Stats:
 [![wicked-elm's GitHub stats](https://github-readme-stats.vercel.app/api?username=wickedelm-web)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wickedelm-web&theme=tokyonight)
-
+![wickedelm-web's GitHub stats](https://github-readme-stats.vercel.app/api?username=wickedelm-web&show_icons=true&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=wickedelm-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
